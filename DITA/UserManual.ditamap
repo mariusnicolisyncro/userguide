@@ -68,27 +68,6 @@
   <chapter href="maps/chapter-querying-documents.ditamap"
     product="editor editorEclipse author authorEclipse developer developerEclipse json"
     collection-type="sequence" format="ditamap"/>
-  <chapter>
-    <topicref href="topics/pdf-output-intro.dita" collection-type="sequence">
-      <topicref href="topics/pdf-css-customization.dita" collection-type="sequence"
-        navtitle="CSS-based PDF Customization" locktitle="yes">
-        <mapref href="maps/dcpp.ditamap" format="ditamap"/>
-      </topicref>
-      <topicref href="topics/dita-pdf-output.dita" collection-type="sequence"
-        navtitle="XSL-FO to PDF Customization" locktitle="yes">
-        <topicref href="topics/dita_pdf_output_customization.dita"/>
-        <topicref href="topics/dita_pdf_embed_logo.dita"/>
-        <topicref href="topics/dita_pdf_header_footer_customization.dita"/>
-        <topicref href="topics/add-watermark-pdf-output.dita"/>
-        <topicref href="topics/pdf-edit-link.dita"/>
-        <topicref href="topics/page-breaks-between-block-elements.dita"/>
-        <topicref href="topics/dita_pdf_output_show_comments.dita"/>
-        <topicref href="topics/DITA-map-set-font-Apache-FOP.dita"/>
-        <topicref href="topics/adding-libraries-fop-dita-ot.dita"/>
-        <topicref href="topics/debugging-pdf-transformation.dita"/>
-      </topicref>
-    </topicref>
-  </chapter>
   <chapter href="maps/chapter-working-with-archives.ditamap"
     product="author authorEclipse editor editorEclipse developer developerEclipse json"
     collection-type="sequence" format="ditamap"/>
